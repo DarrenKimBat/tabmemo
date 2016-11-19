@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="faba92a4f1cb45e9659cb7fd57831f1f0437aeef">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_31c115b61ff54ec73852fd7174f7a0d94392cb08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_9867e1f0a7dd426d89a782620074936857fab789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_cc0db5b9b4d0000ae05b6b6053e7b162d6042901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1ba5ef8e50bf372c40b7ea672dc74aece435a459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_66a4b0c0d1f0573f73dc726adebcd26e83d6b636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a882dc4819f11777a622b0d3075e4914181a508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_97db8bd03430aec90436bc58a3d54527539f5d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_b32865e68cbd0a9d1b97b87950383a50aa688ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3817f45af5eb7def773bab566744537b04fb273a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_cbc39e1c4be80686da5961aebeeff736c48bbb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_6727aaa7885208236f869fa8fb1e934a702a0b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_28ef7873c8ae9c23e4261a1d6a6a6e485c6167cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8327a5e57cf0acdf1044a64ab44fccbc7cbc780f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1bafa3e638678c9ee90b9200e865a29b46bdf76d">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\instant-run_009948836d4fdb509b4f1ead39110901500d0035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d1ec84b14f4e9cd37d7cf1c89f4812c5b44b5af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bf44022f88d36bf8e0dc3d19db94b54210fbe84f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_aa3d861cc48e2c641b28de5ef6e8a7029d32755c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7c0d8fa8c5af3f8a3596c45828b7c17473bd7623.jar" />
+    </item>
+
+</items>

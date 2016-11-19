@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="268282855880837"
+    token="-97734131127896042"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="170" />
+    <task
+        name="instant-run-dex"
+        duration="6" />
+    <task
+        name="instant-run-transform"
+        duration="12" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="268006416414221"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="268045894992550"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\builds\debug\268045894992550\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="268148591538424"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\builds\debug\268148591538424\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="268282855880837"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\solar\AndroidStudioProjects\tabmemo\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
